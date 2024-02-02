@@ -10,7 +10,7 @@ jobs:
     - name: Checkout kernel source
       uses: actions/checkout@v3
       with:
-        repository: PixelOS-Devices/kernel_oneplus_sm8350
+        repository: Kdjjjjn123/kernel_oneplus_sm8350
         ref: fourteen
         path: sm8350
         fetch-depth: 100
